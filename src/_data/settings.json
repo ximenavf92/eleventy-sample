@@ -1,0 +1,20 @@
+{
+    "phone": "(210) 822-8337",
+    "email": "info@bensondesign.com",
+    "address1": "3463 Magic Dr. Suite 215",
+    "address2": "San Antonio, Texas 78209",
+    "socials": [
+        {
+            "name": "facebook",
+            "url": "http://facebook.com"
+        },
+        {
+            "name": "twitter",
+            "url": "http://twitter.com"
+        },
+        {
+            "name": "github",
+            "url": "http://github.com"
+        }
+    ]
+}
